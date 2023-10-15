@@ -1,0 +1,14 @@
+{ "columns":32,
+ "image":"resources/castle-entrance/castle-entrance-tiles-packaged/castle-entrances-tiles-packaged.png",
+ "imageheight":256,
+ "imagewidth":1024,
+ "margin":0,
+ "name":"castle-entrance-tileset",
+ "spacing":0,
+ "tilecount":256,
+ "tiledversion":"1.9.2",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.9"
+}
