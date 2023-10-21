@@ -12,4 +12,6 @@ typedef struct Cell {
 	struct Cell_InclineNode* inclines_head;
 } Cell;
 
+Cell create_cell(struct Map* map);
 void update_cell(Cell* cell);
+void add_to_cell_head(Cell* cell, struct Body* to_add);
